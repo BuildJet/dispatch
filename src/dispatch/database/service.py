@@ -76,8 +76,8 @@ def apply_model_specific_joins(model: Base, query: orm.query):
 
     joined_models = model_map.get(model, [])
 
-    for m in joined_models:
-        query = query.join(m)
+    for model in joined_models:
+        query = query.join(model)
 
     return query
 
