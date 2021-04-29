@@ -8,7 +8,7 @@ Put simply, Dispatch is:
 
 Dispatch helps us effectively manage security incidents by deeply integrating with existing tools used throughout an organization \(Slack, GSuite, Jira, etc.,\) Dispatch is able to leverage the existing familiarity of these tools to provide orchestration instead of introducing another tool.
 
-This means you can let Dispatch focus on creating resources, assembling participants, sending out notifications, tracking tasks, and assisting with post-incident reviews; allowing you to focus on actually fixing the issue!
+This means you can let Dispatch focus on creating resources, assembling participants, sending out notifications, tracking tasks, and assisting with post-incident reviews; allowing you to focus on actually fixing the issue.
 
  ![](https://github.com/Netflix/dispatch/raw/master/docs/images/screenshots/thumb-1.png) ![](https://github.com/Netflix/dispatch/raw/master/docs/images/screenshots/thumb-2.png) ![](https://github.com/Netflix/dispatch/raw/master/docs/images/screenshots/thumb-3.png) ![](https://github.com/Netflix/dispatch/raw/master/docs/images/screenshots/thumb-4.png)
 
